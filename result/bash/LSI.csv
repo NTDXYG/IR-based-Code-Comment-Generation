@@ -1,0 +1,1064 @@
+find all file and directori in current directori and execut myscript for each of them
+list all _file file in entir file system
+find _regex substitut onli when line match with pattern use sed
+list all regular file match name pattern _regex under _file _file _file and _file directori tree
+find all file under _file and set permiss to _number
+get list of ip address of all network interfac
+archiv _file to directori _file in user 's home directori on host specifi by first paramet to function or script use ssh to connect on port specifi by second paramet to function or script compress data dure transmiss
+find all file in entir file system that been modifi exact _timespan befor which end with _regex
+search for file which contain word start in name exclud search in _file _file _file folder
+find all _file file in current directori and delet text match regex _regex in those file
+find all _file file and directori in entir file system discard error and print sort and uniqu parent directori path
+get ip address of all activ network interfac
+move each of directori in _file to anoth directori whose name is constitut by append _file to each directori name and creat a directori name messag in directori move all _file file into directori
+count number of non localhost user
+find all file and directori own by user _regex under current directori
+execut all argument to a shell script and write output to consol and _regex
+find all file and directori name _file under current directori
+display all regular file in current folder which are access in _timespan
+display file status for all regular file in current directori tree suppress error messag
+split _file into file with at most _number line each and use a prefix _regex and numer suffix of length _number
+delet all regular file with _file extens that were modifi in more than _timespan ago in maximum _number level down directori _file
+find all file and directori name _file under current directori
+list all file from current directori tree that were modifi less than _timespan ago
+download content from _directory use a _regex proxi _file
+print second section of space-separ data come from stdin
+find all file and directori name _file under current directori
+archiv directori _regex to directori _regex compress data dure copi
+check if _regex shell option is enabl and if so save it status in _regex variabl
+find all file that been modifi in _timespan
+find all _file file and directori under asia and emea directori
+chang permiss of _file _file and _file to _number
+search _directory directori tree for _file file
+find all file and directori name _file under current directori
+find symlink in current directori tree
+display file status for all regular file in current directori tree
+make a list of all file in current directori tree except _file and _file and view it in vim editor
+search for all _file file in directori _regex and output onli basenam of each
+find all _file file not within _file directori and run _regex _regex _file on each of them
+find all file in home folder which been modifi in _timespan
+find file name _file in current directori and below and run _regex on them
+count number of equal line in sort file _file and _file
+search normal file call _regex from _file directori downward and print them
+find all file and directori name _file under current directori
+find all directori name _file under _directory directori tree
+delet all _regex file under _file directori
+find all _file suffix file exclud path _file under current directori
+find regular file with permiss less than _number
+print all file in current directori tree as a comma separ list
+find all file and directori name _file under current directori
+recurs search through all file in all directori for ani line contain _regex and whose second word is not _regex
+find all regular file in current directori tree except git file
+print _regex on each string in file _regex
+chang symbol link _regex into a file
+show directori size in kb and sort to give largest at end
+find file and directori under current directori that match regex _file in path
+display count of regular file for which owner read and execut permiss under _file directori tree
+serach for all file start with grep in man page
+print out all file with path that ident content and same filenam in differ case
+copi all file in current directori that not match _file in path to _directory preserv directori structur
+recurs chang group ownership to _regex in _file
+creat a symbol link name _directory to _file
+find all file and directori name _file under current directori
+immedi termin all process whose command or argument contain _regex
+count number of _file file in directori tree _file
+search all non-hidden file in current directori and all non-hidden sub-directori for file _file
+count non-blank line in a file _file
+find all file and directori under _file that were access more than _timespan ago
+move all file and directori in current directori to _file
+dump _regex as _size wide hexadecim number
+limit number of result from grep to _number line
+list all regular file in current directori tree
+find all _file file which path neither _file nor _file
+search for regular file _file in entir file system exclud search in directori share and those start with _regex and discard all error
+recurs find all _file file older than _timespan in a current folder and remov them
+save _regex sum hash of _regex to variabl _regex
+search everi directori except subdirectori _regex for a regular file _regex
+resolv symbol link of file _regex even if file not exist
+decompress _file to standard output and save all line match _regex to file with a _number line limit
+find all file under _file and below writabl by _regex and _regex
+search current directori tree for execut file and searchabl directori
+find all file and directori that not belong to ani user under _file directori tree
+send one ping request to local machin
+remov all empti directori under current directori and below
+save user name of current user to variabl _regex
+search _file file from current directori tree for string _regex
+print _number space separ _regex with at most _number per line
+print process tree with command line argument of a process have id _regex
+numer sort file _file by second word of each line and output from greatest valu to least valu
+remov _regex prefix from all filenam of _file file in current directori
+delet all file under user 's home directori tree that were access more than _timespan after status was chang
+print full path of execut _regex
+get domain _regex ip address
+make _number directori name _file follow by number _number _regex or _number
+move all file and directori in current directori to _directory
+print onli second from end field from slash-separ string in file _regex
+search all file in current directori tree whose name contain _regex for _regex
+save onli digit in _regex to variabl _regex
+search for word echo all bash file in current folder
+execut python script _file with _file and write output to consol and append to _file
+exclud directori from find command
+search for file and directori which are writabl by either owner or group
+display sum of disk use by all _file file in _file folder
+find all file in folder _file which belong to user _regex
+recurs find all _file and _file file and print string with _regex ignor text distinct suppress error messag highlight found pattern and preced each found string with file name and string number
+display all trace file from folder _directory which not been access in _timespan
+find all _number permiss directori and use chmod command to set permiss to _number
+sort _file and output result to _file
+instal git and bash-complet packag
+display last _number line of _file wait for user input after each page
+find all file modifi on _regex of _datetime start from current directori
+search system for a file by it content limit search to regular file smaller than _size
+shift posit paramet to left by n
+forc creat hard link between _file and _file
+export variabl _regex as symlink resolv absolut path of _regex parent directori name of _file
+count number of line in all file in _directory directori tree that match pattern _regex
+get current shell 's execut name from output of _regex
+find all _file file in current folder which are present in pattern list search _file
+read one charact from standard input into variabl _regex
+add execut permiss to _file
+delet file in _file and below that not been modifi in over _timespan
+show all file in _file that are own by root been modifi within _timespan
+for each line in _regex print _regex follow by line backward
+list file larger than _size resid in current directori and below
+find file in current directori tree whose size is _size
+synchron via ssh _directory to _directory with compress data dure transmiss and display progress
+ssh into _regex on port _number as user _regex
+find all file and directori name _regex in entir filesystem
+search for regex _regex in all file with _file or _file extens under _regex with name pattern _regex and show match line number file name and match line
+get ip address of _regex network interfac
+execut command for all file and directori under current directori tree
+print onli alphanumer valu from _file
+list detail inform about all _file file in current directori tree
+print _number line of _regex follow by a random number
+write _regex to standard output and _file as input to _regex
+find all file and directori name _file under current directori
+remov all _regex file under dir
+append current date in _regex format with basenam of _regex and save it to variabl _regex
+assign a name when start a screen session
+show epoch in default _file format
+download _number web page _file _number at a time where _regex rang from _number to _number
+get domain _regex ip address
+copi all file under current directori like any-cas _regex to _file directori
+find all file in current folder end with _file or hpp or _file and save output to file _file
+set histori time format variabl _regex to _regex and display up to event _number
+search for all file in current folder which are bigger than _size and display them biggest file
+search current directori tree for _file and _file file
+delet all _file _file file in current folder
+search for file and directori with case insensit pattern _regex in _file
+remov all file in _file directori tree that were access at least _timespan ago
+print file content of command _regex
+search all _file file from current directori tree for _regex ignor case
+find all file and directori name _regex in maximum _number level down _file directori
+list all file and folder with it content in a current folder exclud name end with _regex
+print last non-empti line of a file
+reconnect to a name screen session
+list tmux session
+extract sort and print onli group name from _file
+sort _regex by first and second _regex delimit entri and stabil sort
+recurs remov all file like _file in a current folder
+find and list all file on current directori and show a few line of output from begin
+chang permiss of everi directori in current directori and all file and directori within them to _number
+delet line contain _regex plus next _number line from standard input
+print file name without extens assum is onli one dot in file name
+creat an empti file call _file
+find all file in home folder which been modifi exact _timespan befor
+find all file under current directori and set permiss to _number
+search current directori tree for _file and _file file
+compress all _file file in all sub directori with gzip
+delet all _regex file under _file directori
+enabl _regex shell option
+find all file and directori name _file under current directori
+print absolut path of _regex
+join comma-separ inform in _number file
+search in root directori downward all file which exact _number link
+search for file and directori with case insensit pattern _regex in _file
+search for file and directori with case insensit pattern _regex in _file
+use content of compress file _file and _file as argument to _regex
+find all file that been modifi sinc last time check
+display all file in current folder exclud those that are present in folder _regex
+copi directori hierarchi from current work directori to _directory
+bind word _regex to key code _regex
+move all file and directori in current directori to _file
+find all file and directori name _file under current directori
+print full real path of _file follow by _regex
+find all hard link to file _file that exist under current directori tree
+get ip address of ssh session
+find all file and directori name _file under current directori
+get ip address of first list network interfac in system
+print top _number command with use count
+print content of _regex file revert character
+creat intermedi directori _directory as requir and directori baz _file bang
+recurs from current folder search onli file that name match _file pattern ignor binari file and print file name befor everi string that contain _regex
+list all file and directori resid in current directori and below
+compar column _number with column _number of next line in _regex and format output as a tabl
+count number of time each person is _file in on system
+find all file and directori in entir file system that match pattern _regex in name and print a sort list of uniqu parent directori path
+display host 's ecdsa fingerprint use _regex have algorithm
+save ip address of host name in variabl _regex
+move all file and directori in current directori to _file
+list uniqu tab delimit field number _regex in all file prefix with number of occurr sort from most frequent to least frequent
+search in current directori downward all file whose size is less _size
+display long list of all file in root folder which are bigger than _size
+mount _regex filesystem _regex on _file
+print string _file to termin and append it to file _file
+get ip address of _regex network interfac
+find all file under and below _file that were chang or creat less than _timespan ago
+find all regular file that resid in current directori tree and were last modifi more than _timespan ago
+find all file in current folder that been modifi in _timespan
+find all regular file in a folder and assign output to a variabl
+serach for all file start with grep in man page
+find all file and directori that are not newer than _datetime by modif time
+copi file _regex to each of directori _regex _regex _regex
+mathemat sum each line in output of _file
+find all file and directori under current directori tree that are own by _regex
+list all leaf directori under current directori
+chang ownership of all file in current directori tree from root to www-data
+show all file in folder _file which been modifi in _timespan
+find all file in current directori and it sub-directori that not been access in more than _timespan
+show string that not match regex _regex
+print day between date _regex and _regex
+print ping statist of _number request to _file
+keep last _number compon of _regex
+list all file and folder with it content in a current folder exclud name end with _regex
+find user with x session in system and put result into user variabl
+display _number smallest file in current directori and it sub-directori
+find file and directori under current directori that match regex _file in path
+go to directori _file file use backslash to escap special charact
+find all directori under _file and set permiss to _number
+find all file throughout entir file hierarchi with option constraint of _regex _regex _file _regex
+use uncompress content of _file as input to _regex
+serach for all file start with grep in man page
+mount _regex filesystem _file on _file
+find file end in _regex
+print name and size of regular file resid in _regex directori tree
+find all file in current folder with name _regex and move them to folder _regex execdir run command in directori where file is found
+global set maximum number of line to held in window histori as _number
+search all file from _file directori tree for string _regex
+use uncompress content of _file as input to _file and print a status
+renam all _file file under current directori by append parent directori name at begin of name
+find all file in current directori which are bigger than _size
+find _regex in all _file file ignor case of that string
+move all file match pattern _file _file _file from current directori to directori _directory
+find all _file file in current directori recurs
+find recurs all file in _directory that contain _regex and print match string with string number and file name
+set environ variabl _regex to system host name follow by _regex
+delet all file found in current directori tree whose name begin with _regex
+find all file under _regex directori with white space safeti in path and print _regex sum into _file
+find recurs all folder name _regex within current folder and remov onli one without file and anoth folder within
+use _regex to monitor newest instanc of programnam
+find all file and directori under _file directori tree that been modifi within _timespan
+report file system contain path to current work directori inod usag
+unzip everi _file file in current directori tree
+find all empti file in current directori and delet them
+find all file and directori name _file under current directori
+find all _file file in current folder and which are present in pattern list file _file
+find all file in current folder that are not modifi in _timespan
+display content of variabl _regex convert to lowercas
+find all directori under _file directori without descend into ani sub-directori
+find all file that been modifi exact _timespan ago
+remov all regular file with extens _file css _file txt from directori tree _directory
+search for word echo all bash file in current folder
+print sourc directori of bash script
+make a list of all file in current directori tree except _file and _file and view it in vim editor
+creat an empti file with a carriag return charact in it name
+archiv directori _regex to _regex preserv symbol link
+count number of line in each _file file in current directori tree
+find file that are _size in size in current directori and remov them
+recurs find and compress all file in a current folder with _number parallel process
+redirect output of _regex built-in function and print onli real-tim statist
+display all trace file from folder _directory which not been access in _timespan
+archiv _directory to _file suppress non-error messag and compress data dure transmiss
+print _regex statement found in _regex that are not in _regex
+print second section of space-separ data come from stdin
+list all _file file and directori under _directory directori
+list each file or directori in current directori prefix with it files in byte and sort from smallest to largest
+list current directori wait for user input at each page
+copi _file _file and _regex to _file use block io
+find _file file in current directori tree that contain _regex and print pathnam
+search in entir file system for file firefox thunderbird seamonkey and display all file expect those have word _regex or _regex
+find all regular file in _file tree
+display all file in folder bar onli in path _file
+remount _file on _file as read onli
+display all line contain probe in current kernel 's compile-tim config file
+find all file and directori name _file under current directori
+search for word text in all python file in current folder
+instal packag _regex
+find recurs all regular file in current directori tree end in _file or _file
+find all _file file and directori under home directori that are greater than _size in size
+find all _file _file _file _file _file and _file file and directori under current directori
+find all _file file and directori under home directori that are greater than _size in size
+run _regex in current directori paus for user input at each page
+count number of line in each file in a git repositori
+find file and directori contain _regex in name and display directori content befor directori
+print linker search path use gcc format on new line
+find all file in current folder which not been chang in _timespan
+find all file in home folder which been modifi in _timespan
+execut shell script with find command
+search for word _regex or _regex in all file in folder book
+find file and directori under current directori that match _file in path
+find all file and directori name _regex in entir filesystem
+close current screen session
+move all _file file under current directori to _file
+save canon filenam of script in variabl _regex
+shift all posit argument but last one keep it in _regex variabl
+count total number of line in all _file file under _file that contain string _regex
+search for all file exclud directori end with old or sccs or core or orig in project folder and save output to file exclud
+find all _file directori under _file directori
+list regular file end in _file
+renam all _file file to _file file under current directori
+delet all file found in current directori tree whose name begin with _regex
+decompress and archiv _file
+save first line of _regex into variabl _regex in ksh
+ssh into _file as user _regex without a pseudo-termin and without interpret bash variabl local
+chang owner and group of _regex to _regex
+display in a list of all file that are bigger than _size in current folder
+run an awk program on everi _file file found in current directori tree
+check if _regex is mount point of filesystem
+remov all text file from current folder _regex is use to handl file whose name onli space or those file which newlin in name
+remov trail space from all file under current directori
+print process list with id number of a process have id _regex
+display all file have space in current folder
+in current shell interpret _file which is in directori point by variabl dir
+archiv all _regex file use tar
+chang group ownership of _regex to _regex
+automat send _regex to _file to autom instal
+remov all _file file in home directori tree with confirm
+print file inform of execut file of command _regex
+find all file and directori name _file under current directori
+recurs bind _file to _file
+recurs chang group ownership to _regex in _file
+find all _file file in current directori recurs
+list all file and directori under current directori use comma as delimit for differ field in output
+search current directori tree for all file except svn one
+recurs copi all file match _file in _regex to _directory compress data dure transmiss
+creat intermedi directori _directory as requir and directori baz _file bang
+silent read exact _number charact ignor ani delimit into variabl _regex
+delet all _regex directori from all directori under maximum _number level down current directori that contain directori name _regex and _regex
+find file with _number permiss under _file and print them with string _regex print as first line of output
+creat a temporari directori and go into it
+print common line in file _regex and _regex
+copi all regular file from current directori tree to _file
+find all file modifi on _regex of _datetime start from current directori
+chang word _regex to _regex in all file name in current folder which word _regex in name
+find all regular file in current folder which been modifi in _timespan and display a long list of them
+find file that not a list in _file or _file in file system
+save ip address of host name in variabl _regex
+remov _regex prefix from all filenam of _file file in current directori
+list detail inform about all _file file in current directori tree
+file _file contain a list of file copi all file list to host _regex connect as ssh user _regex and copi file to user 's home directori will not work with _file name contain space
+find file under _file that are not execut
+search for word _regex in all file in folder _file
+delet all _file _file file in current folder
+shift all posit argument but last one keep it in _regex variabl
+creat an empti file call _file
+print pathnam of a file that is connect to standard output of command _regex
+find broken symlink in current directori
+split _regex into file of at most _number line each with prefix _regex
+display size and filepath of all file and directori sort in descend order of size
+find broken symlink in current directori tree
+delet all _file file and directori under current directori
+split _regex into file of at most _number line each
+find password file between sub-directori level _number and _number
+search current directori tree for file whose name not end in _file and _file
+archiv directori structur under backup directori into _file
+save list of a current folder in _regex variabl
+show all valu of variabl whose name or valu contain _regex
+print content of _regex
+sleep for _timespan
+find all directori name _file under _directory directori tree
+print a sort list of directori from _file tree contain file whose name begin with _regex
+display file and directori under current directori tree match regex _file where _regex and _regex expand in current shell
+recurs copi all file and directori in current dir except _regex to locat specifi by variabl _regex
+search _file directori recurs for _file and _file file
+display first _size in _regex as printabl charact with _number charact per line
+find all directori under mydir
+ssh into _regex on port _number as user _regex
+kill group leader
+find directori start from _file that were modifi more than _timespan ago
+print list of file in current directori tree skip svn file
+list all file under current work directori with name _file
+find all file and directori own by user _regex under current directori
+cut all remot path from http url receiv from standard input keep onli protocol identifi host name and trail slash of form _directory
+extract _file
+print posit number of day _number in fourth line of calendar output for septemb _number
+calcul _regex sum for content of regular file in _file directori tree
+remov all directori call _regex from _file directori tree
+make _number directori name _file follow by number _number _regex or _number
+find file and directori with group id _number
+find all file under _file calcul _regex and redirect result to _file
+display a binari file as a sequenc of hex code
+find all file under _regex that match regex _file in content where _regex _regex will be expand
+print absolut path of _file execut
+display name of all directori in current folder and not search in sub directori
+creat empti file with name match each word in variabl _regex
+find all file and directori name _regex in entir filesystem
+print basenam from a colon separ path _regex
+find all file in home folder which been modifi in _timespan
+find all file and directori name _file under current directori
+push current folder to directori stack
+search current directori tree for file whose name not end in _file and _file
+recurs chang group ownership of _regex directori to _regex group
+set if variabl to empti befor read a line of standard input without backslash escap charact
+remov all text file from current folder _regex is use to handl file whose name onli space or those file which newlin in name
+get ip address of _regex network interfac
+split _regex into file of at most _regex or default _number use a numer suffix of length _number and suffix _file
+move all _file file under current directori to _file
+long list al file in current directori which all permiss
+find file in current directori tree whose name are of form _file where xx is a number from _number to _number
+export variabl _regex as symlink resolv absolut path of _regex parent directori name of _file
+write line _number through _number of _file to _file
+find all _file file in current folder and replac end of each line with a pattern
+print line count of each _file file in a current folder and subfold and print total count
+copi file _file to directori _regex _regex _regex and _regex
+remov file from file system that are own by nobodi
+find all file and directori name _file under current directori
+find all file in current directori of size greater than _size and less than _size
+copi file _file and _file with fully-defin path to _file directori
+find all file under current directori and set read permiss for group and other for these file
+remov all file but _number newest one from current folder
+remov all file under _file
+archiv all _regex file and directori under _directory into _regex
+find all _file file in current directori tree that contain string _file
+print a list of _file directori tree
+recurs look for file end in either _file or _file
+find all file and directori name _file under current directori
+sort _regex by first and second _regex delimit entri and stabil sort
+unset random one from first _number array member
+find all file under current directori match either of pattern _file _file _file _file _file in name
+find all directori under _directory directori and chang permiss to _number
+find all text file in current folder and not search in sub directori
+find all file in current folder which been modifi in last one minut
+file _regex a number on each line display sum of these number
+display current system 's kernel name kernel releas and version and machin architectur
+count line in each of _file file in a current folder and subfold and print total count as well
+extract _file _regex
+remov all _file file
+recurs chang group ownership to _regex in _file
+search directori tree _file for directori whose name is _regex and delet them
+find file on system creat dure _timespan
+read a singl charact from standard input into variabl _regex with prompt _regex
+find all file and directori name _file under current directori
+find all _file file in current folder and search for a file in all these _file 's and display _file name along with search file
+find all file that are set user id to root
+find process current take most cpu time
+find all file and directori name _file under current directori
+find all _file file in maximum _number level down current directori process it with sed and send output to a mysql command
+find all file and directori in _file taken from glob pattern _file recurs that not been modifi in _timespan and delet them
+sort line in _regex and _regex to standard output preserv onli uniqu line
+execut all argument to a shell script and write output to consol and _regex
+search _file directori tree for file access within _timespan
+display all regular file in entir file system with name dummi and discard all error
+list regular file end in _file
+print a colon-separ list of all directori from _file directori tree except hidden one and those below them
+dump _regex as a _size hexadecim charact and octal valu and view content in _regex
+list all file and folder with it content in a current folder exclud name end with _regex
+find all directori under _regex directori tree exclud path contain directori _regex
+find all file under _file and set permiss to _number
+find all file and directori with _file extens whose name start with _regex been modifi in _timespan and show first one found
+make a new directori _regex in everi directori in current work directori non-recurs
+make _number directori name _file follow by number _number _regex or _number
+print _file _file and _file with filenam header
+find all file and directori name _file under current directori
+count number of line in each _file or _file file in a git repositori escap ani space in filenam
+add read and execut permiss to everi directori under current directori
+save all directori under current directori as a comma separ list in variabl _regex
+display current directori tree except file or directori start with _regex
+show all file in folder _file which been modifi in _timespan
+find all _file file and directori under current directori and run mycommand with file or directori path as it argument search for expectedresult in output of mycommand
+find all file whose name end with _regex in _file directori tree follow symlink and delet them
+print a sort list of regular file from directori tree _file
+clear termin screen
+find all _file file and directori under current directori and execut python script _file with all path as argument
+join column in _regex and _regex if first field match and format output as a tabl
+print first word follow by rest of line format to fit in _number charact for everi line in _regex
+delet all file in current directori tree whose name end with _regex
+count number of line in each file in a git repositori
+find all _file file in current directori tree and remov them
+print current date follow by _regex
+chang owner and group of _regex to _regex
+search for all directori in a folder and limit search to current folder and give them as input to python script
+execut _file ignor output in background on target machin _regex
+recurs remov all file in a current folder but _regex file
+find all file under current directori and show file inform
+continu send _regex as input to _file and ignor standard error
+delet line contain _regex plus next _number line from standard input
+print _number space in a row
+list all alias
+chang permiss of all regular file in current directori
+search for file and directori which are writabl by either owner or group
+remov trail whitespac in _file file from current directori tree
+find _regex databas in current directori tree execut queri _regex on all of them and search result for _regex
+delet all _regex directori from all directori under maximum _number level down current directori that contain directori name _regex and _regex
+make directori _regex and not caus an error if it exist
+find all _file file and directori under asia and emea directori
+delet recurs without prompt ani file or directori under current directori that case insensit match filenam _file
+search for a string in gzip _regex file
+find all file name _file within current folder and print path where each one is locat
+find all _file file in folder _directory
+search for file and directori that are readabl for everybodi at least one write bit set but are not execut for anybodi
+enabl shell option _regex
+copi all file with extens _file from one folder to a target directori
+get ip address of _regex network interfac
+make a post request to _file with data _regex set to ip address of system
+find all file and directori under current directori and display inod of each one use printf
+renam all _file file under current directori by append parent directori name at begin of name
+search for file and directori which are writabl by either owner or group
+bind word _regex to key code _regex
+chang permiss of all regular file in current directori
+list all file name _regex from current directori tree ignor directori _regex
+merg line whose first comma-separ field in file _regex also appear as a first comma-separ in file _regex both file be sort
+chang directori to user 's home directori
+report count of charact in valu of _regex variabl as follow _regex
+compress _regex _regex encod and save to variabl _regex
+recurs copi _file on host _regex to local directori _file connect as ssh usernam correspond to local usernam
+enabl shell option _regex
+search histori for _regex
+remov all _regex file that were last chang more than _timespan ago from current directori tree
+display all file in home folder exclud directori which been modifi in _timespan
+print file name of all file end with _file in _directory directori
+find file that are writabl by user group or both
+display last _number charact of variabl foo
+find all regular file under _file and replac everi occurr of _file with _file in those file invok perl as few time as possibl and also keep backup with _file extens
+enabl shell option _regex
+count number of file name _file under _file directori tree that match _regex in content
+print sourc directori of bash script
+sort each file in bill directori leav output in that file name with _file append
+recurs chang group ownership to _regex in _file
+copi a file _file to all _file file present in _file directori and below
+revers space separ word in _regex
+display differ between directori _regex and _regex treat absent file as empti
+rewrit _file omit ani repeat line
+add _regex on top of each _file file under current directori
+print line number _regex in file _regex
+find all _file file resid in current directori tree and edit them in gimp
+find all file under current directori and set read permiss for group and other for these file
+archiv _regex to _regex via ssh on port _regex
+list all file that match path pattern with wildcard
+search current directori tree for file whose name not end in _file and _file
+search for regex expand by variabl _regex in all regular file under _regex directori tree
+merg alreadi sort file _file and split result into file of at most _number line each with a numer suffix and a prefix _regex
+display all regular file in current folder which permiss _number
+recurs chang ownership of _file to current user
+find largest origin _file file in current directori tree
+find all file and directori name _file under current directori
+display a list of file with size in decreas order of size of all regular file under _file directori tree that are bigger than _size in size
+split standard input into file of at most _number line each
+search current directori tree for file whose name begin with _regex and end with _regex follow by ani charact ignor path name contain _regex
+search in current directori downward all file whose size is less _size
+copi _regex to _regex and chang ownership to _regex
+set if variabl to empti befor read a line of standard input without backslash escap charact
+convert multipl _file file from _file to _file format
+print name of all file from directori tree _file whose name end in _regex
+count all _file file in a _directory folder
+list detail inform about all _file file in current directori tree
+display current directori tree except file or directori start with _regex
+find all file in current directori recurs with _regex in name and copi them to _file
+compress all directori found in directori tree _regex that been modifi within _timespan
+find all file and directori name _file under current directori
+find all file and directori name _file under current directori
+search current directori tree for file whose name not end in _number and _number
+print full path of execut _regex
+recurs copi _file directori to _directory
+find all file and directori name _file under current directori
+archiv directori _regex to _file
+search all _file file from current directori tree for _regex ignor case
+find all file in _file directori recurs that are older than _timespan
+print string _file to termin and append it to file _file
+remov all _file file in _file directori but not in it 's subdirectori
+convert epoch second timestamp to date
+find all file in current directori tree whose name end with suffix _file where _regex is first command line argument and remov that suffix
+delet file contain whitespac
+archiv directori structur under backup directori into _file
+print calendar for a current month
+search all file in current directori tree except git file for _regex
+find file in current directori tree whose size is _size
+forward all connect to client localhost _number via ssh tunnel to _regex and connect to host _file on port _number
+split _file into file with at most _size each and use prefix _regex
+find all file under current directori and append a null charact at end of each of path
+find all file throughout entir file hierarchi with option constraint of _regex _regex _file _regex
+add a cron job to exist list without remov exist one ro run _file at _regex am _regex day of _datetime if that day happen to be a friday
+find all _file file in current directori tree and print pathnam of parent directori
+find _regex string in regular file under and below _file
+unset _regex variabl in tmux session _regex environ
+list name of directori in current directori without go into sub-directori
+extract _file _regex
+enabl _regex shell option
+check that _regex user is in _regex group
+chang to locat of _regex file
+find all file and directori under current directori and print path
+display _number smallest file by size in a folder
+list all non-hidden file in _file
+show list of all file in current folder which been modifi within _timespan
+search all file in current directori tree whose name contain _regex for _regex
+print content of _regex as input to _regex
+list file larger than _size resid in current directori and below
+make dns lookup for hostnam _file
+recurs chang group ownership to _regex in _file
+travers filesystem just onc list _permission file and directori into _file and larg file into _file
+print filenam taken by glob pattern _regex with null charact as delimit
+set prompt to _regex
+print base name of current work directori
+print first word follow by rest of line format to fit in _number charact for everi line in _regex
+print each line that is found onli onc in _regex and _regex combin
+search in root directori downward all file which exact _number link
+list all _file file and directori under _directory directori
+show state of _regex shell option
+print first line of _regex
+find all regular file in folder _regex and display count of file save all error to _file file
+delet all _file subdirectori under current directori
+find all directori under current directori and run _file for each of them
+save current work directori with resolv symbol link to variabl _regex
+remount _regex subtre to _regex as a bind mount
+search for case insensit pattern _regex in all file that match name pattern _file under current directori tree
+show date in default format for _datetime _regex _timespan _regex _timespan
+find all regular file under _file directori tree that are less than _size in size
+find all directori name _regex that don 't includ ani other directori name _regex
+read a line from standard input and save respons in variabl _regex
+move all directori from _regex directori tree to _regex directori
+write standard output and error of _regex to consol and _regex
+find all file and directori start from current directori and exclud hidden file and directori
+find _file and _file file in current directori tree and print line number and line contain _regex
+print long list of top _number most memori use process in a system
+find regular file under current directori whose name end in _file pipe output to a while loop that renam each file to same name without _file at end
+find all _file file of user tecmint under _file directori
+find all file and directori name _file under current directori
+find all execut symlink or _regex file under maximum _number level down _regex directori
+find string with _regex file
+find all _file file in current directori tree and edit them with _regex
+display content of variabl _regex convert to lowercas
+find all file and directori name _file under current directori
+find all file in _regex directori tree
+delet all file and directori name _regex under current directori tree
+search for _regex in all _file file under current directori
+find all _file file and directori under current directori and execut process for each of them
+find all directori under mydir
+print ip address of host name
+elimin partial duplic line by column keep last occurr
+recurs print path to all text file in folder
+forc creat a symbol link name _regex to _regex without dereferenc _regex
+go to directori _file file use backslash to escap special charact
+find file in a directori and exit command if syntax is correct or display invalid command if syntax is wrong
+find all file and directori under _file and run ls command on each
+display all trace file from folder _directory which not been access in _timespan
+search current directori tree for _file file skip hidden one
+find all _regex file and directori exclud _regex file and directori under home directori
+give primari group of _regex
+search for all symbol link in a folder and display all _file link
+find all regular file in _file tree
+display all file in current folder which are bigger than _size and save output list to file _file
+search for string _regex in _file file under _file directori
+creat an empti file call _file
+creat a name screen session
+creat temporari directori in _directory folder and save path to it in _regex variabl
+remov all directori call _regex from current directori tree
+download _file and convert encod to _regex and print onli printabl charact
+find _file file under current directori and compress them to _file
+print out content of all _file file in home directori
+find all regular file in current folder and replac everyth expect extens of file and display uniqu file extens
+serach for all file start with grep in man page
+find all directori under _directory directori and chang permiss to _number
+add a line number to everi line in _regex
+instal _regex packag with enabl repositori _regex
+open gcc info manual and select _regex menu entri
+display all directori in current folder which start with processor follow by digit and end with _number or _number
+write everi _number line in _regex on a singl line separ by a comma
+list all regular file in current directori tree
+chang group to _regex and permiss to _number for all file in current folder
+find all directori under _file and set permiss to _number
+chang symbol link _regex into a file
+find file in current directori tree which are larger than _size in size
+write _regex to standard output and _file as input to _regex
+search _file file from directori tree _directory for text _regex ignor case and print list of match file
+search for regular file in current folder which path is not _file and not _file
+find all file under current directori and write path without lead _directory in file outputfil
+find a directori name _file case insensit in entir filesystem and show it in long list format
+forcibl creat a symbol link name _file to file _file
+send content of _file to _regex on stdin
+find all file in current directori and execut multipl command for each file
+find all directori under and below directori _regex and chang permiss to _number
+search for file with _regex in name and _regex in path name
+list non-hidden regular file in current directori tree that were last modifi more than _timespan ago
+find file in _file folder which were modifi an hour or more ago
+delet all line match _regex in _regex
+set permiss to _number for everi subdirectori of current directori
+find all _file file in current directori recurs
+replac word foo to bar in all regular file in current folder
+prepend revers histori number to output of histori command with argument _regex
+search current directori tree for file whose name not end in _file and _file
+find all file and directori name _file under _regex directori tree and print parent directori name
+search directori tree _file _file and _file for file name _file
+find all directori name _file under _directory directori tree
+remov all file with a _file extens under current directori
+move all file and directori in current directori to _file
+search current directori tree for execut regular file
+list all _file file and directori under _file
+list file in current directori
+find all file and directori name _file under current directori
+report file system contain path-to-fil disk usag human-read
+find all file in current folder which been access exact _timespan ago
+find all file and directori own by user _regex under current directori
+print git branch current check out in a work directori
+print full name of _regex
+display all _file script and perl file in current folder
+print number of job
+sort base on size and display top _number largest regular file in current folder
+find all file in current folder that a singl letter in name which been modifi in _timespan but not _datetime
+remov _regex charact from all _file file under _file directori and save result to new file with _regex append in name
+search for _regex in everi file in current directori and number output
+remov all file in and below current directori whose name begin with _regex
+search _file file in current directori tree for string _regex
+serach for all file start with grep in man page
+set alia _regex for command _regex
+list all _file file below current directori whose full pathnam name not includ _regex _file _regex or _regex sort by number of line let user page interact through output
+find all file in _file directori recurs that are older than _timespan
+display a long list of all file in home folder which are bigger than _size and discard ani error
+creat an archiv exclud file and directori match _file _file _file _file _regex
+search for file and directori with case insensit pattern _regex in _file
+repeat _file _number time on a singl line
+find all regular file in _file tree
+print real path of _regex where each symbol link compon exist
+print everi _number line in _regex on a singl line separ by a space
+assign alia _regex to a find command that remov ani _file file larger than _size
+replac _regex with newlin in _regex and display name charact
+split _file into file with _number line each and use a suffix length of _number
+find all directori under _file directori and set permiss to _number
+print a column of cpu usag number
+print list of file and directori of _file directori
+find all file and directori under _directory that were modifi less than _timespan ago exclud _file file and directori
+display status of current activ network interfac
+display file type inform for all instanc of _regex in current path
+creat a copi of current work directori structur in _file directori
+find all file that are readabl or writabl by owner
+print file name without extens assum is onli one dot in file name
+list file larger than _size resid in current directori and below
+find all file and directori name _file under current directori
+recurs bind _file to _file
+display all file in current folder along with last access timestamp
+replac all occurr of edx with gurukul in all _file file under _file directori
+recurs unzip file to stdout in _file and search for _regex
+print all uniqu file path under _regex compar to _regex
+find all file own by group _regex
+delet all regular file with _file extens that were modifi in more than _timespan ago in maximum _number level down directori _file
+print _regex content with line number
+locat symbol link in _file and below
+adjust timestamp of _regex by subtract _timespan from it
+delet charact in column _number through _number from output of _regex
+find all file under current folder except _regex _regex _regex folder
+print basenam from a colon separ path _regex
+recurs bind _file to _file
+print total disk usag in byte of all file list in _file
+search for file and directori which are writabl by either owner or group
+set alia _regex for command _regex
+find all directori under _directory directori and chang permiss to _number
+find all directori under _directory directori and chang permiss to _number
+find all file under current directori with size and path revers sort them numer print _regex field of first _number entri
+unset environ variabl repres as _regex by _regex
+search charact special file call _regex from _file directori downward and print them
+count line in file _regex and show progress bar while
+search _file file from current directori tree for _regex
+print process tree with command line argument and process id number
+find all _file file in current directori recurs
+find all file under current directori whose file type descript contain _regex display onli path to each file
+continu print _number and line buffer output via _regex for input to _regex
+find all file call _file in current directori tree and remov line start with _regex in them save backup copi as _file
+show state of _regex shell option
+find all file in current folder which not been chang in _timespan
+archiv _regex to _file on host _file via ssh
+creat a symbol link in current directori for each file _file under directori match _file
+execut _file in background on server _regex
+find all _regex file recurs in _file that are more than _timespan older and compress them
+find all subdirectori of current directori except hidden one
+find all file that are readabl and writabl by owner
+forc remov all regular file which begin with less in temp folder
+list all file under current work directori with name _file
+count number of regular file with case insensit name pattern _regex under _regex directori tree
+ssh with trust _regex forward into _regex from ssh connect _regex
+merg each line of standard input into a singl comma separ line
+archiv entir file system into _file
+find file and directori in entir file system newer than myfil
+search current directori tree for file whose name not end in _number and _number
+recurs remov all _file file and answer _regex to ani prompt
+run somebashstat with filenam as argument for file recurs in _file that match _regex
+find all regular file in current folder that been modifi in _timespan
+set _number permiss to all regular file under current directori
+calcul _regex checksum of current directori structur and save it in variabl sum
+search for _regex in all _regex file under current directori
+repeat _file _number time on a singl line
+search _file directori tree for symbol link
+copi _file to _file in remot _regex
+list all alias
+find all text file in current directori which been modifi in _timespan and not _datetime and copi them to anoth folder
+search for file _file in entir file system and save error to file _file
+make _number directori name _file follow by number _number _regex or _number
+set alia _regex for command _regex
+chang current work directori to _regex and display all file in that folder and append output to file _file
+find all file that been modifi sinc last time check
+print absolut path of _regex
+print most recent modifi file
+print _number line of _regex follow by a random number
+find all file and directori name _file under current directori
+find all file under and below current work directori with word california in file and count number of line in output
+print a hex dump of _regex as charact
+recurs print all file in a current folder and search _regex in file content ignor case differ and preced found string with it number in file
+find all _file file in current folder and convert them to _file with _size bit rate
+calcul _regex sum for content of _file directori tree includ permiss
+ssh into _regex as user _regex
+add a line number to everi line in _regex
+attempt to connect as root via ssh to host whose ip address or hostnam is specifi by environ variabl ipaddress will normal fail becaus ssh server normal don 't accept root login
+save print calendar of februari _number in posit variabl
+show onli _regex not _regex address of network interfac _regex
+list each uniqu charact in _regex prefix by number of occurr and sort from most frequent to least frequent
+find all file in home folder which been modifi in _timespan
+save short system host name to variabl _regex
+instal local locat _file packag ignor gpg check
+remov newlin charact from _file
+find regular file with permiss less than _number
+find all file and directori case insensit contain _regex in name under _file directori tree
+chang permiss of all regular file in current directori
+remov all file last modifi more than _timespan ago from current directori tree
+list charact from standard input show backslash escap for non-display
+find all directori under minimum _number level down _regex directori
+forc remov all directori with name _file in folder _file
+find all file and directori name _file under current directori
+find ip address of _regex network interfac
+find all _file file under _file and move them to _regex
+find all regular file in current folder which are atleast _number level deep and search in alphabet order of directori name
+print url _file follow by a number rang from _number to _number
+search _file directori tree for file access within _timespan
+delet all file in current directori tree whose name end with _regex
+set trace prompt to print _file
+find recurs all file not have extens _file in _directory that contain _regex and print match string with string number and file name
+search for word _regex in all regular file in directori _file
+find all file and directori under current directori and print them
+use _regex to monitor process _file print inform _number time
+list all _file file with a uniqu _regex hash
+search for file whose name is _regex and whose permiss are _number
+recurs print path to all text file in folder
+chang extens of all text file from _file to _file in current folder
+unzip and untar _file and check for corrupt
+find all _file file of user tecmint under _file directori
+chang word _regex to _regex in all file name in current folder which word _regex in name
+renam all _file file in a _regex directori to _file file
+delet all file in current folder which end with _file or _file and which not been access in _timespan
+save user name of current user to variabl _regex
+download content from _directory use a _regex proxi _file
+chang ownership of all file in current directori tree from root to www-data
+display all regular file in current folder in sort order
+print each _file in user 's full name
+print whether sort content of _regex and _regex differ
+find all file under _file that were modifi less than _timespan ago with null charact as delimit
+find all _file file in current directori recurs
+return exit code _number
+remov all _file file in _file directori but not in it 's subdirectori
+find broken symlink in current directori
+run command _file as user name as valu of variabl _regex
+from anoth termin detach process _regex from it termin and run it in background
+find all file and directori name _regex in entir filesystem
+recurs chang group ownership to _regex in _file
+find all _file file and directori under home directori that are greater than _size in size
+delet all file and directori taken by glob pattern _regex except one with name _regex
+find all regular file with _file extens in entir filesystem and move them to directori _file
+remov all _file file in home directori tree with confirm
+list all non-hidden file in _file
+find all file in current directori tree whose name are _regex chang to directori are in and execut them
+find symbol link in _file and _file to file whose pathnam end in _file
+add _file suffix to name of all _file regular file in current directori tree
+display count of total number of empti file in current folder
+find all or singl file call _file under _directory directori of owner root
+find file on system that are bigger than _size
+find all _file file in current directori recurs
+find a more recent version of _file file than _file in entir file system
+search for all file in a directori and give first _number charact of file
+get state of shell option _regex and save it in _regex variabl
+search file in folder _file which been modifi after _file and befor _file
+search for all _file file in current folder and replac a pattern in all file
+use _regex to monitor process _file print inform _number time
+recurs look for file end in either _file or _file
+identifi cms _file accross all wordpress websit
+set alia _file for command _regex
+send sigterm to all process use tcp port _number on system
+run command _file as user joe and redirect output to file _file
+find all directori in maximum _number level down current directori and remov entri from output
+find all file and directori in current directori and execut myscript for each of them
+print all file or directori name without white space safeti under _file directori
+print kb size of all top-level file and folder in a current folder in descend order
+find all file under mainfold directori and redirect output to outputfil
+find file that are writabl by user group or both
+show all file in folder _file which been modifi in _timespan
+continu send _regex plus newlin to program _file
+find all _file file in current directori recurs
+make directori for each uniqu file path in _regex
+search for word _regex in all file in folder _file
+display first _size in _regex as printabl charact with _number charact per line
+print file inform of command _regex
+find _file file in entir file system discard error
+count all directori under current directori
+ssh into _regex as user _regex
+count number of line in each _file file in current directori tree
+find all file under _file and below writabl by _regex and _regex
+find all file and directori name _regex in entir filesystem
+display all directori in folder _file except _file directori
+search all file in current directori tree whose name contain _regex for _regex
+find _file file in current directori tree that were last modifi more than _timespan ago
+receiv input and print it to termin
+silent read exact _number charact ignor ani delimit into variabl _regex
+append _regex on each line of file _regex and display printabl charact
+use _regex to monitor one process
+print content of _regex as space separ hexadecim byte on a singl line
+find all _file file under current directori that match regex _regex in name
+display long list of all regular hidden file in folder music
+find all directori under _file directori and set permiss to _number
+find all directori under _file and replac all newlin with in output remov last
+enabl histori in a script
+ssh into _file as user _regex and run command _regex
+print calendar for a current month without first day of _timespan
+remov regular file from current directori tree that were last modifi on novemb _number
+list all file and directori under _file with file inform which are greater than _size and were modifi or access more than _timespan ago
+count line in file _regex
+find all file and directori start from current directori and exclud hidden file and directori
+search current directori tree for execut file and searchabl directori
+find all file and directori under current directori and print path
+find _file file on system whose size is greater than _size
+save hexadecim byte _number in binari file _file to variabl _regex
+find all _file file in current directori tree print _regex for each of them
+recurs find and compress all file in directori _file
+merg file _file and _file by output ani line whose second field in first match first field in second
+find file with group write permiss and remov permiss
+read a line of standard input with prompt _regex and save it to variabl _regex
+find all directori under _directory directori and chang permiss to _number
+find al file which been access in _timespan and display detail
+print last _number command in histori with first _number charact remov
+count number of line with _regex in file _regex
+scan everi file in _file for _regex address while tri to elimin fals posit
+sort _regex delimit line in _file by first and third field preserv onli uniqu line
+print _file start at line _number
+print _file with line number prepend
+creat an empti file call _file
+find all file and directori name _regex in entir filesystem
+calcul _regex sum of content of _regex
+print full path of execut _regex
+search for file and directori which are writabl by either owner or group
+execut awk command _file on compress file _regex
+search current directori tree for execut file and searchabl directori
+find all file and directori name _regex in entir filesystem
+find all file which end with _file and display base name
+chang owner and group of _regex to _regex
+find link to ani file that happen to be name _file
+find all file and directori name _file under current directori
+find all regular file under _directory sort them in revers numer order and copi first _number file to _directory
+search file from current directori tree for _regex
+ssh into default vagrant host without run _regex by pass configur paramet vagrant use for ssh
+set alia _regex for command _regex
+print full path of execut _regex
+count number of file in _file directori tree whose name begin with _regex and which contain _directory
+find all _file file under and below current directori that contain _regex
+display all file in current folder expect perl shell and python file
+find all file and directori name _file under current directori
+count line in each _file file
+move all regular file under current directori to _file
+find all regular file in current directori tree and count them
+read a line from standard input
+find all directori with name like _regex and which not been modifi in _timespan in folder _file and send them as input to script in exec section
+execut _regex everi minut
+search current directori tree for _file and _file file
+find all file and directori under current directori and sort them
+find file under current directori that contain string _file
+filter content of _regex through sed command written in _regex display result
+set permiss to _number for everi subdirectori of current directori
+search current directori tree for _regex file print them on a singl line
+find all file end with _regex in current folder and search for a pattern
+find all file end with _regex in current folder and move them to temp folder
+search for file and directori with case insensit pattern _regex in _file
+find all file under current directori
+print all child process of a process with id _number separ with comma
+print each line in _regex and _regex separ by a space
+creat script _file that restor origin permiss of regular file in current directori tree
+mathemat add each line in _regex
+replac all occurr of _regex with _regex in all _file file in current directori tree
+find _file file under current directori and compress them to _file
+copi all file end in _file in directori tree match _regex to _file preserv directori hierarchi
+display all directori in current folder exclud those that are present in aa directori tree
+extract ani line in _file which not appear as first _regex delimit entri in _file
+forc remov all directori with name _file in folder _file
+find all text file in current folder and chang extens of these file and move them to anoth folder
+show all line as are execut and stop at first command return nonzero
+list all file and directori under current directori match posix-egrep type regex _file in name
+find all file and directori name _file under current directori
+search current directori tree for execut regular file
+remov _regex prefix from all filenam of _file file in current directori
+find all _number permiss directori and use chmod command to set permiss to _number
+print charact in _regex that match with ani charact in _regex without print ani whitespac in-between
+find all file and directori name _file under current directori
+find all file name _file within current folder and print path where each one is locat
+save first _number octet of host name 's ip address to variabl _regex
+print process tree of current command process
+display differ between _file and _file exclud _file file
+display all directori in folder _regex
+find all file and directori under current directori tree exclud hidden file and directori
+list pid of children process
+chang permiss of directori _directory to _number
+add execut permiss to _file
+get mac address of _regex network interfac
+creat temporari file and save path to it in _regex variabl
+cut all remot path from http url receiv from standard input keep onli protocol identifi host name and trail slash of form _directory
+remov newlin from output of _file and pipe into _regex
+find all empti file in current directori and delet them
+write output and error of _regex to standard output and to _file
+compress all _file file in all sub directori with gzip
+show all directori in current folder exclud those that are present onli in path _file _file and _file
+find all regular file in _file tree
+display all file in current folder along with timestamp and sort them and save them in _regex
+chang permiss of all regular file whose name end with _file in directori tree _file
+print a count of each uniqu line in _regex
+show all file in folder _file which been modifi in _timespan
+find all file and directori under current directori and display blocksiz and quot filenam use stat command
+compar column _number with column _number of next line in _regex and format output as a tabl
+list level _number subdirectori of current directori
+print all file that exceed _size and were modifi at least _timespan ago
+find all text file in current directori which been modifi in _timespan and not _datetime and copi them to anoth folder
+recurs chang group ownership to _regex in _file
+print chmod command that chang permiss of regular file resid in current directori tree to _permission _regex
+search for all text file and display long list of these file from that directori
+find all file of user with _permission
+remov all _file file
+find all _file file in current directori recurs
+find all file under current folder except _regex _regex _regex folder
+enabl shell option _regex
+renam all file in current directori to lowercas
+show global window option
+count all file in a current folder and in subfold one-level lower and sort folder list by number of file within
+list all _file file in entir file system
+find all directori under _directory directori and chang permiss to _number
+print all file or directori name without white space safeti under _file directori
+sourc script _file in folder where current run script is locat
+display a long list of all _file or _file file in entir file system
+make _number directori name _file follow by number _number _regex or _number
+long list detail of all shell script in current directori
+creat an empti file with a carriag return charact in it name
+find all _number permiss directori and use chmod command to set permiss to _number
+find all _file file and chang permiss to _number
+display all text file in current folder which been modifi in last half minut
+search for word _regex in all configur file of _file folder
+find all file that been modifi exact _timespan ago
+list file in current directori and below except for git file
+find _regex file under _file and delet them with confirm prompt ensur white space safeti
+forc delet all _file file in current directori which are less than _size and not search in sub directori
+unzip all _file file in current directori tree to respect directori
+print a colon-separ list of all directori from _regex directori tree
+execut all command in _file on server _regex
+find all _file file in current folder and replac end of each line with a pattern
+search for _regex at begin of each line in _file and print last colon separ entri with comma replac with newlin
+find all file and directori name _file under current directori
+get string with mac address of network interfac _regex
+make _number directori name _file follow by number _number _regex or _number
+print a record for domain _regex from _file nameserv
+find all regular file in current folder which specif word in name and forc delet all these file and save _file to file _file
+find all _regex file and directori under current directori and enter into parent directori of first one found
+find all file in current folder which been access in _timespan
+chang login shell to full path of _regex
+execut command for all file and directori under current directori tree
+remov last _number compon of _regex
+display content of _file one page at a time paus for user interact between each
+bind word _regex to key code _regex
+list all _file file found in current directori tree
